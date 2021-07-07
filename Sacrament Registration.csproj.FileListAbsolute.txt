@@ -1,0 +1,19 @@
+D:\C#\Sacrament Registration\Sacrament Registration\bin\Debug\net5.0-windows\Sacrament Registration.exe
+D:\C#\Sacrament Registration\Sacrament Registration\bin\Debug\net5.0-windows\Sacrament Registration.deps.json
+D:\C#\Sacrament Registration\Sacrament Registration\bin\Debug\net5.0-windows\Sacrament Registration.runtimeconfig.json
+D:\C#\Sacrament Registration\Sacrament Registration\bin\Debug\net5.0-windows\Sacrament Registration.runtimeconfig.dev.json
+D:\C#\Sacrament Registration\Sacrament Registration\bin\Debug\net5.0-windows\Sacrament Registration.dll
+D:\C#\Sacrament Registration\Sacrament Registration\bin\Debug\net5.0-windows\ref\Sacrament Registration.dll
+D:\C#\Sacrament Registration\Sacrament Registration\bin\Debug\net5.0-windows\Sacrament Registration.pdb
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.csprojAssemblyReference.cache
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament_Registration.frmRegister.resources
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.csproj.GenerateResource.cache
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.AssemblyInfoInputs.cache
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.AssemblyInfo.cs
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.csproj.CoreCompileInputs.cache
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.dll
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\ref\Sacrament Registration.dll
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.pdb
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament Registration.genruntimeconfig.cache
+D:\C#\Sacrament Registration\Sacrament Registration\obj\Debug\net5.0-windows\Sacrament_Registration.frmLogin.resources
